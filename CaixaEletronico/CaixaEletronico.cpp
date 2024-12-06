@@ -13,7 +13,7 @@ void mostrarMenu() {
     cout << "2. Sacar dinheiro\n";
     cout << "3. Depositar dinheiro\n";
     cout << "4. Sair\n";
-    cout << "Escolha uma opção: ";
+    cout << "Escolha uma opcao: ";
 }
 
 int main() {
